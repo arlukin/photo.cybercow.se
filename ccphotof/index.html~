@@ -1,0 +1,23 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Mäklarringen Sverige - bilder
+</title>
+    <style media="screen" type="text/css">
+        .imagediv {background-color:#ffffff; margin-top:30px; margin-left:20px; width:100px; padding:10px; border:solid 1px #d6d6d6}
+        .textdiv {padding:10px 20px 10px 20px; font-family:Trebuchet ms, Verdana; font-size:15px}
+        img {border:0; width:100px;}
+    </style>
+</head>
+<body style="background-color:#efefef;margin:0px" onload="window.focus()">
+<div id="images">	
+	<div class="imagediv">
+  	<img src="http://farm2.pics.objektdata.se/pic/pic.dll/image?url=10107/SFDA1BD563EED7647C9B19D9D2964F6F82D.jpg&amp;sizex=820" alt="Exteriör" />
+		<div class="textdiv">
+			Exteriör
+		</div>
+	</div>
+</div>
+</body>
+</html		
+

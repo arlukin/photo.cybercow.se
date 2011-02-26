@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="album.xsl"?>
+<album
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.cybercow.se album.xsd"
+>
+	<title>1999 Blandade bilder</title>
+
+	<photo>
+		<title>daniel ar tokhungrig</title>
+		<thumb>/ccphoto/cache/160x160/1999/990419_Blandat/daniel_ar_tokhungrig.jpg</thumb>
+		<image>/ccphoto/cache/1600x1200/1999/990419_Blandat/daniel_ar_tokhungrig.jpg</image>
+		<link>/ccphoto/cache/1600x1200/1999/990419_Blandat/daniel_ar_tokhungrig.jpg</link>
+		<date>2009-04-16 23:37</date>
+	</photo>
+	<photo>
+		<title>danielchatphoto</title>
+		<thumb>/ccphoto/cache/160x160/1999/990419_Blandat/danielchatphoto.jpg</thumb>
+		<image>/ccphoto/cache/1600x1200/1999/990419_Blandat/danielchatphoto.jpg</image>
+		<link>/ccphoto/cache/1600x1200/1999/990419_Blandat/danielchatphoto.jpg</link>
+		<date>2009-04-16 23:37</date>
+	</photo>
+	<photo>
+		<title>danielchatphotolarge</title>
+		<thumb>/ccphoto/cache/160x160/1999/990419_Blandat/danielchatphotolarge.jpg</thumb>
+		<image>/ccphoto/cache/1600x1200/1999/990419_Blandat/danielchatphotolarge.jpg</image>
+		<link>/ccphoto/cache/1600x1200/1999/990419_Blandat/danielchatphotolarge.jpg</link>
+		<date>2009-04-16 23:37</date>
+	</photo>
+	<photo>
+		<title>daniel tar en ol</title>
+		<thumb>/ccphoto/cache/160x160/1999/990419_Blandat/daniel_tar_en_ol.jpg</thumb>
+		<image>/ccphoto/cache/1600x1200/1999/990419_Blandat/daniel_tar_en_ol.jpg</image>
+		<link>/ccphoto/cache/1600x1200/1999/990419_Blandat/daniel_tar_en_ol.jpg</link>
+		<date>2009-04-16 23:37</date>
+	</photo>
+	<photo>
+		<title>Johan tomten</title>
+		<thumb>/ccphoto/cache/160x160/1999/990419_Blandat/Johan_tomten.jpg</thumb>
+		<image>/ccphoto/cache/1600x1200/1999/990419_Blandat/Johan_tomten.jpg</image>
+		<link>/ccphoto/cache/1600x1200/1999/990419_Blandat/Johan_tomten.jpg</link>
+		<date>2009-04-16 23:37</date>
+	</photo>
+
+</album>

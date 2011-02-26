@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Restricted Area, username:cybercow and the cow password!"
+AuthUserFile /var/www/photo.cybercow.se/ccphoto/.htaccessusers
+AuthGroupFile /var/www/photo.cybercow.se/ccphoto/.htaccessgroups
+Require group public

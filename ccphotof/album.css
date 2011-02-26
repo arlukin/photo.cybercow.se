@@ -1,0 +1,37 @@
+body
+{
+	background-color:#efefef;
+	margin:0px
+}
+.imagediv
+{
+	background-color:#ffffff;
+  margin: 5px;
+	width:100px;
+	height:180px;
+	padding:10px;
+	border:solid 1px #d6d6d6;
+	float: left;
+}
+.imagediv img
+{
+  display: inline;
+  border: 1px solid #000000;
+  	width:100px;
+}
+
+.imagediv a:hover img
+{
+  border: 1px solid #d6d6d6;
+}
+
+.desc
+{
+  text-align: left;
+  font-weight: normal;
+
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+  font-size: 11px;
+
+  color: #233825;
+}

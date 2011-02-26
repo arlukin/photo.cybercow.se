@@ -1,0 +1,45 @@
+h1
+{
+margin: 0cm 0cm 0cm 0cm;
+text-align: center;
+
+}
+div.img
+{
+  margin: 5px;
+  width: auto;
+  float: left;
+	border: 1px solid #0000ff;
+	height: 320px
+}
+div.img img
+{
+  display: inline;
+  margin: 3px;
+  border: 1px solid #ffffff;
+}
+div.img a:hover img
+{
+  border: 1px solid #0000ff;
+}
+div.desc
+{
+  text-align: left;
+  font-weight: normal;
+  width: 300px;
+  margin: 2px;
+
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+  font-size: 11px;
+  
+  color: #233825;
+}
+
+div.footer
+{
+  width: 100%;
+  float: left;
+}
+
+
+
